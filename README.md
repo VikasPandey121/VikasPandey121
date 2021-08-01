@@ -23,6 +23,11 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use Firebase Phone and Google Authentication in Android.](https://vikaspandey121.medium.com/how-to-use-firebase-phone-and-google-authentication-in-android-2581c97e6592?source=rss-a9d5cdf19b1d------2)
+- [How to create OnBoarding Screen within three minutes?](https://vikaspandey121.medium.com/how-to-create-onboarding-screen-within-three-minutes-e5b159189faf?source=rss-a9d5cdf19b1d------2)
+- [A tour to Git Commit Show](https://vikaspandey121.medium.com/a-tour-to-git-commit-show-56d37e6afc03?source=rss-a9d5cdf19b1d------2)
+- [How to integrate Youtube API-v2 and use it?](https://vikaspandey121.medium.com/how-to-integrate-youtube-api-v2-and-use-it-7918945d71c0?source=rss-a9d5cdf19b1d------2)
+- [How to install openVINO on ubuntu 18.04?](https://medium.com/coding-blocks/how-to-install-openvino-on-ubuntu-18-04-e8d7d2dc1a8e?source=rss-a9d5cdf19b1d------2)
 <!-- BLOG-POST-LIST:END -->
 
 
